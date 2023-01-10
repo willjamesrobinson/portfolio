@@ -11,10 +11,10 @@
 }
 
 :root {
-    --color-bg: #1f1f38;
-    --color-bg-variant: #2c2c6c;
-    --color-primary: #4db5ff;
-    --color-primary-variant: rgba(77, 181, 255, 0,4);
+    --color-bg: #3c6255;
+    --color-bg-variant: #61876e;
+    --color-primary: #A6BB8D;
+    --color-primary-variant: #fff;
     --color-white: #fff;
     --color-light: rgba(255, 255, 255, 0.6);
 
@@ -49,7 +49,11 @@ body {
 }
 
 h1 {
-    font-size: 2.5rem;
+    font-size: 4rem;
+}
+
+h4 {
+    font-size: 2rem;
 }
 
 h1,
