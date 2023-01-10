@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.0e4cbeff.css",
+    "main.js": "/portfolio/static/js/main.9a42bc98.js",
+    "static/media/Will_Robinson_CV.pdf": "/portfolio/static/media/Will_Robinson_CV.976a022e0d7dc3922c30.pdf",
+    "static/media/me.png": "/portfolio/static/media/me.5646f834e808460bb84b.png",
+    "index.html": "/portfolio/index.html",
+    "main.0e4cbeff.css.map": "/portfolio/static/css/main.0e4cbeff.css.map",
+    "main.9a42bc98.js.map": "/portfolio/static/js/main.9a42bc98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e4cbeff.css",
+    "static/js/main.9a42bc98.js"
+  ]
+}
