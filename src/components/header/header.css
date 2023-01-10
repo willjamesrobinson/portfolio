@@ -48,7 +48,7 @@ header {
     height: 30rem;
     position: absolute;
     left: calc(50% - 11rem);
-    margin-top: 4rem;
+    margin-top: 2rem;
     border-radius: 12rem 12rem 2rem 2rem;
     overflow: hidden;
 }
@@ -57,9 +57,9 @@ header {
 .scroll_down {
     position: absolute;
     right: -2.3rem;
-bottom: 14rem;
+    bottom: 14rem;
     transform: rotate(90deg);
     font-weight: 200;
-    font-size: 0.9rem;
+    font-size: 1.4rem;
 }
 

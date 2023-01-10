@@ -10,7 +10,7 @@
     text-decoration: none;
 }
 
-:root {
+:root { 
     --color-bg: #3c6255;
     --color-bg-variant: #61876e;
     --color-primary: #A6BB8D;
@@ -36,6 +36,7 @@ html {
 body {
     font-family: 'Poppins', sans-serif;
     background: var(--color-bg);
+    background-image: linear-gradient(45deg, #5c8b7c , #2e443c);
     color: var(--color-white);
     line-height: 1.7;
     /* background-image: url(../src/assets/bg-texture.png); */
@@ -53,7 +54,7 @@ h1 {
 }
 
 h4 {
-    font-size: 2rem;
+    font-size: 2.5rem;
 }
 
 h1,
@@ -66,6 +67,7 @@ h5 {
 
 section {
     margin-top: 8rem;
+    padding-top: 2rem;
 }
 
 section > h2, 

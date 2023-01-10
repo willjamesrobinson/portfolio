@@ -6,7 +6,7 @@
 
 .experience_container > div {
     background: var(--color-bg-variant);
-    padding: 2.4rem 5rem;
+    padding: 2.4rem 3rem;
     border-radius: 2rem;
     border: 1px solid transparent;
 }
@@ -37,6 +37,7 @@
 .experience_details-icon {
     margin-top: 6px;
     color: var(--color-primary);
+    font-size: 1.3rem;
 }
 
 /* =================== MEDIA QUERIES (MEDIUM DEVICES) ==================== */
@@ -54,6 +55,10 @@
     .experience_content {
         padding: 1rem;
     }
+
+    .experience_content h4 {
+        font-size: 1.5rem;
+    }
 }
 
 /* =================== MEDIA QUERIES (SMALL DEVICES) ==================== */
@@ -66,4 +71,9 @@
         width: 100%;
         padding: 2rem 1rem;
     }
+
+    .experience_content h4 {
+        font-size: 1.2rem;
+    }
+
 }
