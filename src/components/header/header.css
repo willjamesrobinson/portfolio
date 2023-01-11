@@ -63,3 +63,11 @@ header {
     font-size: 1.4rem;
 }
 
+/* =================== MEDIA QUERIES (PHONES) ==================== */
+@media screen and (max-width: 390) {
+    .header_socials a{
+        font-size: 1rem;
+    }
+
+}
+

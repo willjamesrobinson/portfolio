@@ -162,3 +162,16 @@ img {
         display: none;
     }
 }
+
+/* =================== MEDIA QUERIES (PHONES) ==================== */
+@media screen and (max-width: 390) {
+    .header {
+        height: 100vh;
+
+    }
+
+    .header_socials,
+    .scroll_down {
+        display: none;
+    }
+}
