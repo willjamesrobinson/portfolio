@@ -23,7 +23,7 @@
 }
 
 .portfolio_item h3 {
-    margin: 1.2rem 0 2rem;
+    margin: 0.6rem 0 0.6rem;
 
 }
 
@@ -31,6 +31,10 @@
     display: flex;
     gap: 1rem;
     margin-bottom: 1rem;
+}
+
+.contents {
+    height: 10rem;
 }
 
 /* =================== MEDIA QUERIES (MEDIUM DEVICES) ==================== */
