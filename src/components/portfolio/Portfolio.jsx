@@ -76,7 +76,7 @@ const Portfolio = () => {
           <p><small>React - CSS - JavaScript</small></p>
           <div className="portfolio_item-cta">
             <a href='https://github.com/willjamesrobinson/jimny-store' className='btn' target='_blank' rel="noreferrer"> Github</a>
-            <a href='https://github.com/willjamesrobinson/jimny-store' className='btn btn-primary' target='_blank' rel="noreferrer"> Live Demo</a>
+            <a href='https://jimny-bits.vercel.app/' className='btn btn-primary' target='_blank' rel="noreferrer"> Live Demo</a>
           </div>
         </article>
       </div>
