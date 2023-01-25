@@ -20,7 +20,7 @@ const Portfolio = () => {
           </div>
           <div className="contents">
             <h3>Zoomies</h3>
-            <p>An online platform designed to bring together dog owners with the goal of socialising pups from a young age. Similar to the workings of Tinder, users create a profile and swipe left and right depending on the type of dog and owner. </p>
+            <p>An online platform designed to bring together dog owners with the goal of socialising pups from a young age. Users create a profile and swipe left and right depending on the type of dog and owner. </p>
           </div>
           <p><small>Ruby on Rails - JavaScript - Bootstrap - RESTful APIs</small></p>
           <div className="portfolio_item-cta">

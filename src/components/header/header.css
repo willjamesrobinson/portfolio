@@ -63,11 +63,42 @@ header {
     font-size: 1.4rem;
 }
 
-/* =================== MEDIA QUERIES (PHONES) ==================== */
-@media screen and (max-width: 390) {
+/* =================== MEDIA QUERIES (MEDIUM) ==================== */
+@media screen and (max-width: 1024) {
     .header_socials a{
         font-size: 1rem;
     }
 
+    .header {
+        height: 68vh;
+    }
+
+    .body{
+        width: 70vh;
+    }
+
 }
 
+/* =================== MEDIA QUERIES (MEDIUM) ==================== */
+@media screen and (max-width: 1024px) {
+    .header_socials a{
+        font-size: 1rem;
+    }
+
+    .header {
+        height: 68vh;
+    }
+}
+
+/* =================== MEDIA QUERIES (SMALL) ==================== */
+@media screen and (max-width: 600px) {
+    .header_socials,
+    .scroll_down{
+        display:none;
+    }
+
+    .header {
+        height: 100vh;
+    }
+
+}

@@ -62,7 +62,7 @@
 }
 
 /* =================== MEDIA QUERIES (SMALL DEVICES) ==================== */
-@media screen and (max-width: 600) {
+@media screen and (max-width: 600px) {
     .experience_container {
         gap: 1rem;
     }
@@ -74,6 +74,10 @@
 
     .experience_content h4 {
         font-size: 1.2rem;
+    }
+
+    .experience_content{
+        padding: 0.2rem;
     }
 
 }
