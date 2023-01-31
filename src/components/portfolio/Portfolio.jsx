@@ -5,6 +5,14 @@ import IMG4 from '../../assets/portfolio4.png'
 import J1 from '../../assets/jimnybits.png'
 import J2 from '../../assets/jimnybits2.png'
 import J3 from '../../assets/jimnbybits3.png'
+import IMG5 from '../../assets/tip1.JPG'
+import IMG6 from '../../assets/tip2.JPG'
+import IMG7 from '../../assets/tip3.JPG'
+import IMG8 from '../../assets/calc1.JPG'
+import IMG9 from '../../assets/calc2.JPG'
+import IMG10 from '../../assets/calc3.JPG'
+
+
 // import IMG5 from '../../assets/portfolio5.png'
 
 
@@ -39,6 +47,54 @@ const Portfolio = () => {
             <p>A marketplace website with the aim of locating and booking someone for some cuddles!</p>
           </div>
           <p><small>Ruby on Rails - JavaScript - Bootstrap - Heroku</small></p>
+          <div className="portfolio_item-cta">
+            <a href='https://github.com/willjamesrobinson/Spoonies' className='btn' target='_blank' rel="noreferrer"> Github</a>
+            <a href='https://github.com/willjamesrobinson/Spoonies' className='btn btn-primary' target='_blank' rel="noreferrer"> Live Demo</a>
+          </div>
+        </article>
+
+        <article className="portfolio_item">
+          <div className="portfolio_item-image">
+            <div className="column">
+              <img src={IMG5} alt=""/>
+            </div>
+            <div className="column">
+              <img src={IMG6} alt=""/>
+            </div>
+            <div className="column">
+              <img src={IMG7} alt=""/>
+            </div>
+            {/* <img src={IMG5} alt="" /> */}
+          </div>
+          <div className="contents">
+            <h3>Tip Calculator</h3>
+            <p>A simple tip calculator application used to determine the total cost depending on how big you tip!</p>
+          </div>
+          <p><small>Kotlin - Android Studio</small></p>
+          <div className="portfolio_item-cta">
+            <a href='https://github.com/willjamesrobinson/Spoonies' className='btn' target='_blank' rel="noreferrer"> Github</a>
+            <a href='https://github.com/willjamesrobinson/Spoonies' className='btn btn-primary' target='_blank' rel="noreferrer"> Live Demo</a>
+          </div>
+        </article>
+
+        <article className="portfolio_item">
+          <div className="portfolio_item-image">
+            <div className="column">
+              <img src={IMG8} alt=""/>
+            </div>
+            <div className="column">
+              <img src={IMG9} alt=""/>
+            </div>
+            <div className="column">
+              <img src={IMG10} alt=""/>
+            </div>
+            {/* <img src={IMG5} alt="" /> */}
+          </div>
+          <div className="contents">
+            <h3>Pocket Calculator</h3>
+            <p>A working calculator application, capable of adding, subtracting, dividing and multiplying.</p>
+          </div>
+          <p><small>Kotlin - Android Studio</small></p>
           <div className="portfolio_item-cta">
             <a href='https://github.com/willjamesrobinson/Spoonies' className='btn' target='_blank' rel="noreferrer"> Github</a>
             <a href='https://github.com/willjamesrobinson/Spoonies' className='btn btn-primary' target='_blank' rel="noreferrer"> Live Demo</a>

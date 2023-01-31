@@ -11,6 +11,10 @@ header {
     position: relative;
 }
 
+.me>img{
+    height: 100%;
+}
+
 /* ====================== CTA ================== */
 .CTA {
     margin-top: 2.5rem;

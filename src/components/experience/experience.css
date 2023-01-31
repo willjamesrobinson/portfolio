@@ -40,6 +40,10 @@
     font-size: 1.3rem;
 }
 
+.experience_content h4 {
+    font-size: 1.8rem;
+}
+
 /* =================== MEDIA QUERIES (MEDIUM DEVICES) ==================== */
 @media screen and (max-width: 1024px) {
     .experience_container {

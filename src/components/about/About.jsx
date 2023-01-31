@@ -40,6 +40,8 @@ const About = () => {
           After 3+ years in the Civil Engineering and Construction industry, I decided to pursue software engineering. I've always been deeply curious and excited about learning, design and problem solving which led me to join Le Wagon's Software Development Coding Bootcamp in 2022 to accelerate my journey. Prior to studying, I worked as a Civil Engineer and Junior Project Manager for 3 years where I developed a broad set of transferable skills. 
           </p>
 
+          <p>My technical abilities, coupled with my open-minded and positive attitude, have enabled me to be a valued and enjoyable member of various teams. Through these experiences, I have developed the essential skills for working in a collaborative and efficient environment, such as empathy, humility, supportiveness, and a readiness to learn from my mistakes.</p>
+
           <a href="#contact" className="btn btn-primary"> Let's Talk!</a>
         </div>
       </div>
